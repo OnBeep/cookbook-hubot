@@ -8,6 +8,7 @@ version          "1.0.3"
 
 supports "ubuntu", ">= 10.04"
 supports "centos", ">= 6.0"
+supports "mac_os_x"
 
 depends "git"
 depends "nodejs"

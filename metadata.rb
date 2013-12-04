@@ -11,5 +11,6 @@ supports "centos", ">= 6.0"
 supports "mac_os_x"
 
 depends "git"
+depends "homebirew"
 depends "nodejs"
 depends "runit"
